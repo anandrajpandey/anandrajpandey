@@ -6,9 +6,6 @@
   <a href="https://anandrajpandey.netlify.app">
     <img src="https://img.shields.io/badge/Live%20Portfolio-anandrajpandey.netlify.app-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/anandrajpandey/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio%20Repo-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/anand-raj-pandey-4231a827a">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -26,11 +23,6 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandrajpandey&show_icons=true&theme=transparent&title_color=67e8f9&text_color=e2e8f0&icon_color=22d3ee&border_color=1f2937" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajpandey&theme=transparent&ring=67e8f9&fire=22d3ee&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&border=1f2937" />
-</div>
-
-<div align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajpandey&layout=compact&theme=transparent&title_color=67e8f9&text_color=e2e8f0&border_color=1f2937" />
-  <img width="57%" src="https://github-profile-trophy.vercel.app/?username=anandrajpandey&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
 </div>
 
 <br />
