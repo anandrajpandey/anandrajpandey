@@ -21,8 +21,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandrajpandey&show_icons=true&theme=transparent&title_color=67e8f9&text_color=e2e8f0&icon_color=22d3ee&border_color=1f2937" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajpandey&theme=transparent&ring=67e8f9&fire=22d3ee&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&border=1f2937" />
+  <img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajpandey&theme=transparent&ring=67e8f9&fire=22d3ee&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&border=1f2937" />
 </div>
 
 <br />
@@ -31,6 +30,7 @@
   <a href="https://inc3ntra.netlify.app">
     <img src="https://img.shields.io/badge/Incentra-Live%20Project-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/users/anand-raj-pandey/badges#credly">
     <img src="https://img.shields.io/badge/AWS%20Certified-DVA--C02-16a34a?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
