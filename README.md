@@ -1,6 +1,6 @@
 <p align="center">
   <img width="78%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,55:0f172a,100:0ea5e9&text=Anand%20Raj%20Pandey&fontColor=e2e8f0&fontSize=52&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Backend%20Developer%20%7C%20AWS%20Certified&descAlignY=60&animation=fadeIn" />
-  <img width="18%" src="./public/aws-certified-developer-associate%20(1).png" alt="AWS Certified Developer Associate badge" />
+  <img width="18%" src="https://raw.githubusercontent.com/anandrajpandey/Portfolio/main/public/aws-certified-developer-associate%20%281%29.png" alt="AWS Certified Developer Associate badge" />
 </p>
 
 <div align="center">
