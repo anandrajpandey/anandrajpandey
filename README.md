@@ -1,14 +1,5 @@
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="760" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,55:0f172a,100:0ea5e9&text=Anand%20Raj%20Pandey&fontColor=e2e8f0&fontSize=52&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Backend%20Developer%20%7C%20AWS%20Certified&descAlignY=60&animation=fadeIn" />
-      </td>
-      <td>
-        <img width="170" src="https://raw.githubusercontent.com/anandrajpandey/Portfolio/main/public/aws-certified-developer-associate%20%281%29.png" alt="AWS Certified Developer Associate badge" />
-      </td>
-    </tr>
-  </table>
+  <img width="100%" src="https://raw.githubusercontent.com/anandrajpandey/Portfolio/main/public/readme-banner.png" alt="Anand Raj Pandey banner" />
 </div>
 
 <div align="center">
