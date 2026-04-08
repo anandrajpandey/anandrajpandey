@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0f172a,100:0ea5e9&text=Anand%20Raj%20Pandey&fontColor=e2e8f0&fontSize=48&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Backend%20Developer%20%7C%20AWS%20Certified&descAlignY=58&animation=fadeIn" />
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,55:0f172a,100:0ea5e9&text=Anand%20Raj%20Pandey&fontColor=e2e8f0&fontSize=52&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Backend%20Developer%20%7C%20AWS%20Certified&descAlignY=60&animation=fadeIn" />
+</p>
 
 <div align="center">
   <a href="https://anandrajpandey.netlify.app">
@@ -17,31 +17,16 @@
   </a>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=2200&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=AWS+%E2%80%A2+Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Node.js+%E2%80%A2+FastAPI+%E2%80%A2+Python+%E2%80%A2+TypeScript;Cloud-native+systems+%E2%80%A2+Backend+platforms+%E2%80%A2+DevOps+execution" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,ansible,nodejs,py,fastapi,ts,nextjs,tailwind,js,mysql,java,git,github&perline=4" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,ansible,nodejs,py,fastapi,ts,nextjs,tailwind,js,mysql,java,git,github&perline=8" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-0f172a?style=for-the-badge&logo=amazonaws&logoColor=67e8f9" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-0f172a?style=for-the-badge&logo=terraform&logoColor=c4b5fd" />
-  <img src="https://img.shields.io/badge/Docker-Containers-0f172a?style=for-the-badge&logo=docker&logoColor=7dd3fc" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-0f172a?style=for-the-badge&logo=kubernetes&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-0f172a?style=for-the-badge&logo=fastapi&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/Next.js-Frontend-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=e2e8f0" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://anandrajpandey.netlify.app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandrajpandey&show_icons=true&theme=transparent&title_color=67e8f9&text_color=e2e8f0&icon_color=22d3ee&border_color=1f2937" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandrajpandey&show_icons=true&theme=transparent&title_color=67e8f9&text_color=e2e8f0&icon_color=22d3ee&border_color=1f2937" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajpandey&theme=transparent&ring=67e8f9&fire=22d3ee&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&border=1f2937" />
 </div>
 
@@ -61,6 +46,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:0f172a,100:020617" />
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:0f172a,100:020617" />
+</p>
