@@ -20,10 +20,8 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,ansible,nodejs,py,fastapi,ts,nextjs,tailwind,js,mysql,java,git,github&perline=4" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,ansible,nodejs,py,fastapi,ts,nextjs,tailwind,js,mysql,java,git,github&perline=16" />
 </div>
-
-<br />
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandrajpandey&show_icons=true&theme=transparent&title_color=67e8f9&text_color=e2e8f0&icon_color=22d3ee&border_color=1f2937" />
